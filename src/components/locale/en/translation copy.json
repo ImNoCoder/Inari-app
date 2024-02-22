@@ -1,0 +1,6 @@
+{ 
+  "LoginPage:Title": "Login",
+  "LoginPage:UserName": "Username",
+  "LoginPage:Password": "Password",
+  "LoginPage:loginWarning": "Incorrect username or password!"
+}
